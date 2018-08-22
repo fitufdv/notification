@@ -1,1 +1,2 @@
 include ':app', ':notificationmodule'
+includeFlat 'keys'
